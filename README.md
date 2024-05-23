@@ -1,5 +1,15 @@
 ### Boas vindas ao meu perfil :blue_heart
 
+Meu nome é Pietro
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+00001124737881sp@al.educacao.sp.gov.br
+
 
 <!--
 **pietropietrop/pietropietrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
